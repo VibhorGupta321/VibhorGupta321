@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vibhor Gupta
 - 👀 I’m interested in Competetive Programming
 - 🌱 I’m currently learning C++, DSA, Web Dev
-- 📫 How to reach me: lit2021014@gmail.com
+- 📫 How to reach me: lit2021014@iiitl.ac.in
 
 <!---
 VibhorGupta321/VibhorGupta321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
